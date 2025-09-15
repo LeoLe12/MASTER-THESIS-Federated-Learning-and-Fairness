@@ -38,11 +38,16 @@ The project investigates:
    git clone https://github.com/<your-username>/<repo-name>.git
    cd <repo-name>
 
+---
 
 ## 📊 Evaluation
 - The evaluation focuses on:
 
+---
+
 ## 📜 License
+
+---
 
 ## 👥 Contributors
 - Leonardo Lei (Master’s Thesis Author)
